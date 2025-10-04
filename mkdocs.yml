@@ -1,0 +1,9 @@
+site_name: CaSilicate
+site_url: https://www.casilicate.org/
+theme:
+  name: material
+  features:
+    - navigation.tabs
+nav:
+  - Welcome: index.md
+  - About: about.md
