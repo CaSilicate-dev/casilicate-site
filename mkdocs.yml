@@ -7,3 +7,4 @@ theme:
 nav:
   - Welcome: index.md
   - About: about.md
+  - My projects: projects.md
