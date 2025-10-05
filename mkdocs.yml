@@ -6,7 +6,10 @@ theme:
     - navigation.tabs
 nav:
   - Welcome: index.md
-  - About: about.md
+  - About: 
+    - About me: about.md
+    - My friends: about/friends.md
   - My projects: 
     - Introduction: projects.md
     - MCServerMonitor: projects/mcsrvmon.md
+  

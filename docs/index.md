@@ -1,6 +1,6 @@
 # Welcome to CaSilicate's website
 
-This is **CaSilicate**'s website. It records some information on her. If you have some suggestion about this site, you can submit **Issues** and **Pull requests** on GitHub.
+This is **[CaSilicate](https://github.com/CaSilicate-dev/)**'s website. It records some information on her. If you have some suggestions about this site, you can submit **[Issues](https://github.com/CaSilicate-dev/casilicate-site/issues)** and **[Pull requests](https://github.com/CaSilicate-dev/casilicate-site/pulls)** on [GitHub](https://github.com/CaSilicate-dev/casilicate-site).
 
 ## License
 This site is open source on CC0-1.0

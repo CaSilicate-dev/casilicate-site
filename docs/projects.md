@@ -4,4 +4,4 @@ Here are some projects I have created.
 
 ---
 
-[MCServerMonitor](/projects/mcsrvmon)
+[MCServerMonitor](projects/mcsrvmon.md)
