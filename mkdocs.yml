@@ -1,9 +1,31 @@
 site_name: CaSilicate
 site_url: https://www.casilicate.org/
+repo_url: https://github.com/CaSilicate-dev/casilicate-site
+repo_name: CaSilicate-dev/casilicate-site
 theme:
   name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  font:
+    text: "Roboto"
+    code: "Roboto mono"
   features:
     - navigation.tabs
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 nav:
   - Welcome: index.md
   - About: 
