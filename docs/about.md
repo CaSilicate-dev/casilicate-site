@@ -41,3 +41,9 @@ I'm a girl studying at a vocational school, with a passion for full-stack develo
     - **GPU:** Intel Iris Xe Graphics
     - **Operating system:** Debian GNU/Linux 13 (Trixie)
     - **Usage:** Deploy something that require continuous running, such as a Minecraft server
+
+
+
+
+# test
+Test content
