@@ -4,12 +4,12 @@ Here are some of my important friends, and their links. If you want to be remove
 
 ---
 
-[CaSilicate (GitHub)](https://github.com/CaSilicate-dev) (myself), her site: [https://www.casilicate.org/](https://www.casilicate.org/)
+[CaSilicate (GitHub)](https://github.com/CaSilicate-dev) (she/her, myself), site: [https://www.casilicate.org/](https://www.casilicate.org/)
 
-[FTS427 (GitHub)](https://github.com/FTS427), her site: [https://www.fts427.top/](https://www.fts427.top/)
+[FTS427 (GitHub)](https://github.com/FTS427) (she/her), site: [https://www.fts427.top/](https://www.fts427.top/)
 
-[copi143 (GitHub)](https://github.com/copi143)
+[copi143 (GitHub)](https://github.com/copi143) (he/him)
 
-[sysytemdirect (GitHub)](https://github.com/sysytemdirect), his site: [https://sysytemdirect.github.io/](https://sysytemdirect.github.io/)
+[sysytemdirect (GitHub)](https://github.com/sysytemdirect) (he/him), site: [https://sysytemdirect.github.io/](https://sysytemdirect.github.io/)
 
-[Aurora (Bilibili)](https://space.bilibili.com/1537914552)
+[Aurora (Bilibili)](https://space.bilibili.com/1537914552) (she/her)
