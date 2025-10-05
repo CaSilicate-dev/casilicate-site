@@ -7,5 +7,6 @@ theme:
 nav:
   - Welcome: index.md
   - About: about.md
-  - My projects: projects.md
-# test
+  - My projects: 
+    - Introduction: projects.md
+    - MCServerMonitor: projects/mcsrvmon.md

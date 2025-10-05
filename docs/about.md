@@ -14,11 +14,15 @@ I'm a girl studying at a vocational school, with a passion for full-stack develo
 **[GitHub](https://github.com/CaSilicate-dev)**
 
 ---
+
 ## Skills
 - Development 
     - Frontend: React
     - Backend: Rust & Python
-    - Server ops: Debian GNU/Linux CLI | Learning Docker
+- Server ops
+    - Debian GNU/Linux CLI
+    - Learning Docker
+
 ---
 
 ## My devices

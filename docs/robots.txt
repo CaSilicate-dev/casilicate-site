@@ -1,2 +1,3 @@
 User-agent: *
 Disallow: /da_*
+Disallow: /*da_my_lover*
