@@ -17,4 +17,4 @@ Here are some of my important friends, and their links.
 
 [sysytemdirect GitHub :fontawesome-solid-paper-plane:](https://github.com/sysytemdirect) (he/him), site: [https://sysytemdirect.github.io/](https://sysytemdirect.github.io/)
 
-[Aurora Bilibili :fontawesome-solid-paper-plane:](https://space.bilibili.com/1537914552) (he/him)
+[Aurora Bilibili :fontawesome-solid-paper-plane:](https://space.bilibili.com/1537914552) (she/her)
