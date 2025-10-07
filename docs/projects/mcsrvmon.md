@@ -15,3 +15,6 @@ This is a high-accuracy and minimalistic Minecraft server status monitor.It feat
 ## License
 
 This project is open source on GPL-3.0 
+
+## Preview
+<iframe src="https://mcsrvmon.casilicate.org/" width="100%" height="300" style="border: none"></iframe>
